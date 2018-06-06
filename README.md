@@ -1,2 +1,2 @@
 # PORTFOLIO
-![Portfolio](Tableau 1.png)
+![PORTFOLIO](Tableau 1.png)
