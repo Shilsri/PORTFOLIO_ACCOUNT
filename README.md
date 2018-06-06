@@ -1,3 +1,3 @@
 # PORTFOLIO
 Side Projects
-\n\n![](Portfolio Tableau 1.png)
+![](Portfolio Tableau 1.png)
