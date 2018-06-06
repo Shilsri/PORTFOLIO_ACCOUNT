@@ -1,3 +1,3 @@
 # PORTFOLIO
 Side Projects
-![title](Portfolio Tableau 1.png)
+![PORTFOLIO](Portfolio Tableau 1.png)
