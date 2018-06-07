@@ -12,7 +12,7 @@ Proficient at creating insightful data visualizations from moulding data to fit 
 
 > The intuition behind the **Service Level Dashboard** is to effectively monitor *SLAs* in an operational environment and assists in gauging the optimal goal that the operations team can take over time on agreed service levels for the following quarter.
 
-![Service Level Dashboard.png](https://github.com/Shilsri/PORTFOLIO/blob/master/SLA_Dash.png)
+![Service Level Dashboard.png](https://github.com/Shilsri/PORTFOLIO/blob/master/SLA_Dash1.png)
 
 
 ## 2. SQL Rules 
