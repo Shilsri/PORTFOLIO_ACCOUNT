@@ -17,7 +17,7 @@ Proficient at creating insightful data visualizations from moulding data to fit 
 
 ## 2. SQL Rules 
 
-Cognizant of data structures and able to build from scratch or tweak complex yet cost-effective queries in multiple flavors (*SQL/PostgreSQL/Redshift/MySQL etc.*) to suit specific business requirements. 
+Cognizant of data structures and able to build from scratch or tweak complex yet cost-effective queries in multiple flavors of SQL (*MySQL/PostgreSQL/Redshift etc.*) to suit specific business requirements. 
 
 #### *[Snippet]*
 
