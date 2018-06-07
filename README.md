@@ -95,7 +95,7 @@
     AND   a.signin_event_count >= 5
     AND   b.txn_freq / a.signin_freq > 1
     OR    (b.txn_freq IS NULL AND a.signin_freq < 2 AND a.signin_event_count >= 5);
-    
+   
     
     
     
