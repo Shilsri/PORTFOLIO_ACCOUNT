@@ -5,7 +5,7 @@
 
 ![Merchant Metrics Dashboard](https://github.com/Shilsri/PORTFOLIO/blob/master/Merchant_Metrics_Dash.png)
 
-* The intuition of the **Service Level Dashboard** is to monitor *SLAs* in an operational environment and assists in gauging the optimal goal that the operations team can take over time on service levels for the following quarter.
+* The intuition behind the **Service Level Dashboard** is to effectively monitor *SLAs* in an operational environment and assists in gauging the optimal goal that the operations team can take over time on agreed service levels for the following quarter.
 
 ![Service Level Dashboard.png](https://github.com/Shilsri/PORTFOLIO/blob/master/SLA_Dash.png)
 
