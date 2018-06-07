@@ -1,6 +1,7 @@
 # Personal Portfolio of Projects and Activity Stream
 
-## 1. Tableau [Sample Dashboards]
+## 1. Tableau 
+### [Sample Dashboards]
 
 * The **Merchant Registration Metrics Dashboard** enables high-level management of an unnamed solution provider scrutinize the profitability of onboarded merchants basis their registration properties such as merchant category, registration date, the transactional value and volume etc. over time in 2017. This helps build efficient marketing strategies and also assists in addressing low performing segments.
 
@@ -11,7 +12,9 @@
 ![Service Level Dashboard.png](https://github.com/Shilsri/PORTFOLIO/blob/master/SLA_Dash.png)
 
 
-## 2. SQL Rules [Snippets]
+## 2. SQL Rules 
+
+### [Snippets]
 
     ALTER SESSION SET NLS_DATE_FORMAT = 'YYYY/MM/DD HH24:MI:SS';
     
