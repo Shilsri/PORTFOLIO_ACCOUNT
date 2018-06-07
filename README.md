@@ -1,4 +1,4 @@
-# Personal Portfolio of Projects and Activity Stream.
+# Personal Portfolio of Projects and Activity Stream
 
 ## 1. Tableau Sample dashboards
 
