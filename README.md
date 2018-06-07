@@ -17,6 +17,8 @@ Proficient at creating insightful data visualizations from moulding data to fit 
 
 ## 2. SQL Rules 
 
+Cognizant of data structures and able to build from scratch or tweak complex yet cost-effective queries in multiple flavors (*SQL/PostgreSQL/Redshift/MySQL etc.*) to suit specific business requirements. 
+
 #### *[Snippet]*
 
     ALTER SESSION SET NLS_DATE_FORMAT = 'YYYY/MM/DD HH24:MI:SS';
