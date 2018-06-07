@@ -3,11 +3,11 @@
 ## 1. Tableau 
 #### *[Sample Dashboards]*
 
-* The **Merchant Registration Metrics Dashboard** enables high-level management of an unnamed solution provider scrutinize the profitability of onboarded merchants basis their registration properties such as merchant category, registration date, the transactional value and volume etc. over time in 2017. This helps build efficient marketing strategies and also assists in addressing low performing segments.
+> The **Merchant Registration Metrics Dashboard** enables high-level management of an unnamed solution provider scrutinize the profitability of onboarded merchants basis their registration properties such as merchant category, registration date, the transactional value and volume etc. over time in 2017. This helps build efficient marketing strategies and also assists in addressing low performing segments.
 
 ![Merchant Metrics Dashboard](https://github.com/Shilsri/PORTFOLIO/blob/master/Merchant_Metrics_Dash.png)
 
-* The intuition behind the **Service Level Dashboard** is to effectively monitor *SLAs* in an operational environment and assists in gauging the optimal goal that the operations team can take over time on agreed service levels for the following quarter.
+> The intuition behind the **Service Level Dashboard** is to effectively monitor *SLAs* in an operational environment and assists in gauging the optimal goal that the operations team can take over time on agreed service levels for the following quarter.
 
 ![Service Level Dashboard.png](https://github.com/Shilsri/PORTFOLIO/blob/master/SLA_Dash.png)
 
