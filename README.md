@@ -109,7 +109,7 @@ Cognizant of data structures and able to build from scratch or tweak complex yet
 
 ## 3. Python
 
-> * Feature Engineering - * The below script is a part of a cohesive data pipeline that I built to ping a list of merchant URLs and gather website stats to pipe it along with other sources into a machine learning model.
+> **Feature Engineering -** The below script is a part of a cohesive data pipeline that I built to ping a list of merchant URLs and gather website stats before piping it along with other sources into a machine learning model.
 
     import pandas as pd
     import numpy as np
