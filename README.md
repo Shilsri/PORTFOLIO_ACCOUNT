@@ -104,15 +104,12 @@ Cognizant of data structures and able to build from scratch or tweak complex yet
     AND   a.signin_event_count >= 5
     AND   b.txn_freq / a.signin_freq > 1
     OR    (b.txn_freq IS NULL AND a.signin_freq < 2 AND a.signin_event_count >= 5);
-   
     
     
-    
-    
-    
+
 ## 3. Python
 
-> Website inactivity
+> * Feature Engineering - * The below script is a part of a cohesive data pipeline that I built to ping a list of merchant URLs and gather website stats to pipe it along with other sources into a machine learning model.
 
     import pandas as pd
     import numpy as np
